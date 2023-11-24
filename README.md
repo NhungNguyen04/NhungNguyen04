@@ -1,7 +1,8 @@
+# Overview
 🖐️Hi, nice to meet you, I'm an AI enthusiast
--💁‍♀️My name is Nhung for short, I'm a her
--💻I'm an undergraduate student majored in Computer Science
--🌼I'm from Viet Nam, currently living in Ho Chi Minh city
+- 💁‍♀️My name is Nhung for short, I'm a her
+- 💻I'm an undergraduate student majored in Computer Science
+- 🌼I'm from Viet Nam, currently living in Ho Chi Minh city
   
 ## ✉️ Find me on:
 
@@ -9,8 +10,8 @@
 <p align="center">
  <a href="https://github.com/NhungNguyen04" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/nhung-nguyen-ai/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.linkedin.com/in/nhung-nguyen-ai/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="nguyennhungforwork04@gmail.com"> <img src="https://png.pngtree.com/element_our/png_detail/20181011/facebook-social-media-icon-design-template-vector-png_126986.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.facebook.com/nhung.nguyenthihong.14661261/" target="_blank" rel="noopener noreferrer"> <img src="https://w7.pngwing.com/pngs/806/294/png-transparent-facebook-logo-logo-facebook-icon-facebook-logo-brand-social-network-scalable-vector-graphics.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="nguyennhungforwork04@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
