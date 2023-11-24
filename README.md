@@ -26,6 +26,7 @@
 <img src="https://banner2.cleanpng.com/20180614/sg/kisspng-microsoft-sql-server-sql-server-management-studio-transactional-analysis-5b2207401c5992.0038138215289567361161.jpg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
 </p>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=NhungNguyen04)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/NhungNguyen04)
 
