@@ -8,7 +8,6 @@
 
 
 <p align="center">
- <a href="https://github.com/NhungNguyen04" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/github.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/nhung-nguyen-ai/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.facebook.com/nhung.nguyenthihong.14661261/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/640px-Facebook_Logo_%282019%29.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
   <p>and my email: nguyennhungforwork04@gmail.com></p>
