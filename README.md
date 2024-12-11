@@ -1,5 +1,5 @@
 # Overview
-🖐️Hi, nice to meet you, I'm a technology enthusiast
+🖐️Hi, nice to meet you, I'm a ReactJS + NodeJS full stack engineer
 - 💁‍♀️ My name is Nhung for short, I'm a her
 - 💻 I'm an undergraduate student majored in Software Engineerning
 - 🌼 I'm from Viet Nam, currently living in Ho Chi Minh city
